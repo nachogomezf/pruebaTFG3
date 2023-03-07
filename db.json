@@ -1,0 +1,24 @@
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "07/03",
+      "animation_url": "https://logger.tiiny.site/",
+      "image": "https://login.uc3m.es/imgs/uc3m.png",
+      "name": "Image + html logger"
+    },
+    {
+      "id": 1,
+      "description": "07/03",
+      "image": "https://iplogger.com/pruebaTFG.jpeg",
+      "name": "Invisible pixel as image. No animation url"
+    },
+    {
+      "id": 2,
+      "description": "07/03",
+      "animation_url": "https://iplogger.com/pruebaTFG.jpeg",
+      "image": "https://login.uc3m.es/imgs/uc3m.png",
+      "name": "Raw logger URL as animation"
+    }
+  ]
+}
